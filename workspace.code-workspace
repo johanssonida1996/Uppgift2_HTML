@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\bootstrap-4.5.3\\scss"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Uppgift"
+	}
+}
